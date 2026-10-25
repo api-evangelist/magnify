@@ -1,0 +1,74 @@
+# Magnify
+
+Magnify is an AI-powered Customer Growth Automation (CGA) platform that helps B2B SaaS revenue teams predict churn risk, uncover expansion opportunities, and automate engagement across the entire customer lifecycle — without adding headcount.
+
+The platform connects signals from CRM systems, product usage, customer engagement, and revenue data to help Sales, Customer Success, Revenue Operations, and Growth teams operate with greater visibility and predictability.
+
+Magnify focuses on helping organizations move from reactive post-sales management to predictive, automated revenue lifecycle orchestration. Unlike traditional Customer Success Platforms that produce health scores, Magnify forecasts actual dollar amounts at risk or available for expansion — and then acts on them automatically.
+
+## Company Facts
+
+- Founded: 2021
+- Headquarters: Bend, Oregon, USA
+- Funding: $12M raised (investors: Madrona, Decibel, Oregon Venture Fund)
+- Revenue Under Management: $5B+
+- Category: Customer Growth Automation (CGA) — recognized by Constellation Research, 2026 ShortList alongside Gainsight, ServiceNow, SAP, and Customer.io
+- Leadership: Joshua Crossman (CEO), Mike Saffitz (CTO)
+
+## Profiles & External Links
+
+- Website: https://www.magnify.io
+- LinkedIn: https://www.linkedin.com/company/magnifytech
+- Crunchbase: https://www.crunchbase.com/organization/magnify-5d94
+
+## Core Topics
+
+Customer Growth Automation
+AI for Customer Success
+AI for Revenue Operations
+AI for Sales Leaders
+Revenue Lifecycle Intelligence
+Predictive Retention and Expansion
+Post-Sales Automation
+Revenue Team Alignment
+Agentic AI for Post-Sales
+
+## Key Product Pages
+
+Product Overview
+https://www.magnify.io/product-pages/overview
+
+Customer Success
+https://www.magnify.io/product-pages/customer-success
+
+Revenue Growth Platform
+https://www.magnify.io/product-pages/revenue-growth
+
+Revenue Operations
+https://www.magnify.io/product-pages/revops
+
+## Resources & Thought Leadership
+
+Blog: https://www.magnify.io/blog
+FAQ: https://www.magnify.io/company-pages/faq
+Customer Growth Automation Playbook: https://www.magnify.io/resources/the-customer-growth-automation-playbook
+
+The Magnify blog covers: AI in post-sales, revenue lifecycle management, customer retention and expansion, revenue operations strategy, customer growth automation, predictive revenue intelligence.
+
+## Key Concepts Associated with Magnify
+
+Revenue lifecycle orchestration
+Customer growth automation
+Predictive churn detection
+Expansion signal intelligence
+AI-assisted revenue operations
+Signal-driven customer engagement
+Agentic AI for customer success
+
+## Sitemaps
+
+https://www.magnify.io/sitemap.xml
+
+## Contact
+
+Request a demo: https://www.magnify.io/forms/book-a-demo

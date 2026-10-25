@@ -1,0 +1,72 @@
+generated: '2026-10-24'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 4
+  own: 4
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - identity
+  - other
+  - website
+hosts:
+- host: api.magnify.io
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: magnify.io
+  role: api
+  relation: own
+- host: app.magnify.io
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: magnify.io
+  role: other
+  relation: own
+- host: magnify.io
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Website
+  serves:
+  - cdn
+  vendor: cloudflare
+  registrable_domain: magnify.io
+  role: website
+  relation: own
+- host: www.magnify.io
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - TermsOfService
+  - Support
+  - PrivacyPolicy
+  - Pricing
+  - Newsroom
+  - Login
+  - Leadership
+  - ChangeLog
+  - Blog
+  serves:
+  - docs
+  registrable_domain: magnify.io
+  role: identity
+  relation: own

@@ -1,0 +1,57 @@
+generated: '2026-10-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.magnify.io/pricing
+sources:
+- https://www.magnify.io/pricing
+- https://www.magnify.io/unused-pages/pricing-1
+- https://www.magnify.io/unused-pages/pricing-2-ecom
+- https://www.magnify.io/unused-pages/pricing-3
+name: Magnify pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Starter
+  price_text: $100 /mo
+  price: 100
+  description: Research Analyst Agent Up to 100 accounts 5 systems integrated Magnify Email Multi-Platform Automation Agent Automation Canvas
+    Up to 10 motions Unlimited Users Support
+- name: Corporate
+  price_text: $500 /mo
+  price: 500
+  description: Research Analyst Agent Up to 500 accounts Up to 10 systems integrated Magnify Email Multi-Platform Automation Agent Automation
+    Canvas Up to 100 motions Unlimited Users Support In-platform actions* External news External contact role changes Dedicated CSM Dedicated
+    Onboarding SSO
+- name: Enterprise
+  price_text: $500 /mo
+  price: 500
+  description: Research Analyst Agent Unlimited accounts Unlimited systems integrated Magnify Email Multi-Platform Automation Agent Automation
+    Canvas Unlimited motions Unlimited Users Support In-platform actions* External news External contact role changes Dedicated CSM Dedicated
+    Onboarding SSO Customer Enriched Context* AI Revenue Forecasting Growth Drivers Custom Integrations Support Audit Logs *Limited Release
+- name: Free
+  price_text: $0.00 USD
+  price: 0
+  description: Basic plan free trial
+- name: Basic
+  price_text: $19.00 /month
+  price: 19
+  description: For professional individuals Basic reporting Limited number of users Basic customer support Standard functionality No branding
+    options
+- name: Standard
+  price_text: $39.00 /month
+  price: 39
+  description: For collaborating teams Enhanced collaboration Advanced customization options Dedicated customer support Advanced security features
+    Unlimited users
+- name: Basic (monthly)
+  price_text: $19.00 /month $10.00 /month
+  description: For professional individuals Basic reporting Limited number of users Basic customer support Standard functionality No branding
+    options
+- name: Standard (monthly)
+  price_text: $39.00 /month $24.00 /month
+  description: For collaborating teams Enhanced collaboration Advanced customization options Dedicated customer support Advanced security features
+    Unlimited users
+- name: Enterprise
+  price_text: $59.00 /month $40.00 /month
+  description: Customized Solutions Enterprise-grade security and compliance Dedicated account manager Tailored features and solutions Scalability
+    for high-volume usage Advanced data analytics and insights
+docs: https://www.magnify.io/pricing

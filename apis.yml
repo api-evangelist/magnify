@@ -1,25 +1,94 @@
 aid: magnify
+
 name: Magnify
-description: 'Magnify is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by decibel) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/66b5437d328e2d08855c9934/696f1a564b7a7837a25dda38_a43e278a3e4c9d6d70f0064c9dfa2020_Agentic%20AI%20Announcement%20%E2%80%94%20Home.png
+
+description: 'Magnify provides an AI‑driven platform that automates post‑sales customer motions such as adoption, retention, expansion, and trial conversion. It integrates data from CRM, product telemetry, and other systems to generate insights, forecasts, and automated actions for customer success, sales, revenue operations, and marketing teams.'
+
 url: https://raw.githubusercontent.com/api-evangelist/magnify/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-24 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-24'
+
 modified: '2026-10-24'
+
 tags:
-- Company
-apis: []
+- Customer Success
+- Revenue Growth
+- AI Automation
+- Post‑Sales
+- GTM
+- Product‑Led Growth
+- RevOps
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- decibel
+
 common:
+- type: Plans
+  url: plans/magnify-plans-pricing.yml
+- type: ChangeLog
+  url: changelog/magnify-changelog.yml
+- type: LLMsTxt
+  url: llms/magnify-llms.txt
+- type: Hosts
+  url: hosts/magnify-hosts.yml
+- type: Vendors
+  url: vendors/magnify-vendors.yml
+- type: TermsOfService
+  url: https://www.magnify.io/tos
+- type: Support
+  url: https://www.magnify.io/unused-pages/help-pages/help-center
+- type: PrivacyPolicy
+  url: https://www.magnify.io/privacy-policy
+- type: Pricing
+  url: https://www.magnify.io/pricing
+- type: Newsroom
+  url: https://www.magnify.io/company-pages/news
+- type: Login
+  url: https://www.magnify.io/unused-pages/user-pages/log-in
+- type: Leadership
+  url: https://www.magnify.io/company-pages/leadership
+- type: ChangeLog
+  url: https://www.magnify.io/utility-pages/changelog
+- type: Blog
+  url: https://www.magnify.io/blog
+- type: DomainSecurity
+  url: security/magnify-domain-security.yml
 - type: Website
   url: https://magnify.io
+
+apis: []
+
+x-backed-by:
+- decibel
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-10-24'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://magnify.io
+    status: 200
+x-enrichment:
+  date: '2026-10-24'
+  status: enriched
+  artifacts_added: 11
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

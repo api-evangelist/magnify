@@ -1,0 +1,16 @@
+generated: '2026-10-24'
+method: none
+source:
+- https://zapier.com/apps/magnify/integrations
+- https://n8n.io/integrations/magnify/
+- https://composio.dev/toolkits/magnify
+- https://monid.ai/tools/magnify
+checked:
+- https://composio.dev/toolkits/magnify
+- https://monid.ai/tools/magnify
+- https://n8n.io/integrations/magnify/
+- https://zapier.com/apps/magnify/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

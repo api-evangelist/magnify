@@ -1,0 +1,14 @@
+generated: '2026-10-24'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.magnify.io/utility-pages/changelog
+sources:
+- https://www.magnify.io/utility-pages/changelog
+entries:
+- breaking: false
+  highlights:
+  - Initial Release - SasGrad Template Released.
+  version: V.1.0.0
+current_version: V.1.0.0
+note: Only one changelog entry is listed on the page; no dates or breaking change indicators are provided.
+docs: https://www.magnify.io/utility-pages/changelog
